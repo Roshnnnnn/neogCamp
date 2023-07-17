@@ -1,24 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Cypro+Minoan&display=swap");
+
 body {
-	/* background-color: aqua; */
-	color: gold;
-}
-
-h1 {
-	color: blue;
-}
-
-h2 {
-	color: pink;
-}
-
-h3 {
-	color: yellowgreen;
-}
-
-#component-header {
-	color: brown;
-}
-
-.para {
-	color: darkolivegreen;
+	font-family: "Noto Sans Cypro Minoan", sans-serif;
 }
