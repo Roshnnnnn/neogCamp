@@ -2,6 +2,7 @@
 
 :root {
 	--primary-color: red;
+	--dark-gray: #687280;
 }
 
 body {
@@ -76,4 +77,22 @@ hr {
 	color: aliceblue;
 	text-align: right;
 	/* list-style: none; */
+}
+
+/* hero */
+
+.hero {
+	padding: 2rem;
+}
+
+.hero .hero-image {
+	max-width: 350px;
+	display: block;
+	margin: auto;
+}
+
+.hero-heading {
+	padding-top: 1rem;
+	color: var(--dark-gray);
+	text-align: center;
 }
