@@ -8,8 +8,12 @@ body {
 	font-family: "Noto Sans Cypro Minoan", sans-serif;
 }
 
+hr {
+	margin: 2rem 0rem;
+}
+
 .container {
-	padding: 0 1rem;
+	padding: 0rem 1rem;
 }
 
 .container-center {
