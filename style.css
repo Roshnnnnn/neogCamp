@@ -9,6 +9,7 @@
 body {
 	font-family: "Noto Sans Cypro Minoan", sans-serif;
 	margin: 0px;
+	scroll-behavior: smooth;
 }
 
 hr {
