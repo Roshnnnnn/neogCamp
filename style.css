@@ -150,3 +150,9 @@ hr {
 	font-weight: bold;
 	font-size: large;
 }
+
+/* blog */
+
+.showcase-blog {
+	padding-bottom: 6rem;
+}
