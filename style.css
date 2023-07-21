@@ -9,6 +9,7 @@
 body {
 	font-family: "Noto Sans Cypro Minoan", sans-serif;
 	margin: 0px auto;
+	max-width: 85%;
 }
 
 hr {
@@ -97,6 +98,7 @@ hr {
 
 .hero {
 	padding: 2rem;
+	padding-top: 5rem;
 }
 
 .hero .hero-image {
